@@ -1,0 +1,4 @@
+@android
+public class Entity {
+
+}
